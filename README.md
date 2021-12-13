@@ -1,3 +1,20 @@
+# [Live server](https://crypto-tracker-by-fannoth.netlify.app/)
+
+## Table of contest
+* [Live Server](#live-server)
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Getting Started](*getting-started-with-create-react-app)
+
+## General info
+- App for tracking crypto
+
+## Technologies
+Project is created with:
+- React
+- css
+- axios
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
